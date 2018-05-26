@@ -317,8 +317,8 @@
         var totalSugar = 0;
         var totalYeast = 0;
 
-        $.getJSON("http://localhost:8080/ingredient", function(result) {
-          //$.getJSON("ing.json", function(result) {
+        //$.getJSON("http://localhost:8080/ingredient", function(result) {
+          $.getJSON("ing.json", function(result) {
           //console.log(result);
 
           $.each(result, function(index, item) {
@@ -347,8 +347,8 @@
 
         var recent3recipeslist = "";
 
-      $.getJSON("http://localhost:8080/recipe", function(recipeData) {
-        //$.getJSON("result.json", function(recipeData) {
+      //$.getJSON("http://localhost:8080/recipe", function(recipeData) {
+        $.getJSON("result.json", function(recipeData) {
         //console.log(recipeData.length);
 
         var threeRecipes = "";
@@ -402,8 +402,8 @@
       });
 
 
-      $.getJSON("http://localhost:8080/recipe/public", function(publicRecipes) {
-        //$.getJSON("public.json", function(publicRecipes) {
+      //$.getJSON("http://localhost:8080/recipe/public", function(publicRecipes) {
+        $.getJSON("public.json", function(publicRecipes) {
         //console.log(publicRecipes.length);
 
         var threeLeftRecipes = "";

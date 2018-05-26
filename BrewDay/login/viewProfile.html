@@ -493,8 +493,8 @@
 
       $(document).ready(function () {
 
-        $.getJSON("http://localhost:8080/user/12", function(result) {
-          //$.getJSON("profile.json", function(result) {
+        //$.getJSON("http://localhost:8080/user/12", function(result) {
+          $.getJSON("profile.json", function(result) {
           //console.log(result);
           var addr = result.address.split(",")[0];
           var city = result.address.split(",")[1];

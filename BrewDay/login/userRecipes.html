@@ -323,8 +323,8 @@
 
         var recipeslist = "";
 
-        $.getJSON("http://localhost:8080/recipe", function(result) {
-          //$.getJSON("result.json", function(result) {
+        //$.getJSON("http://localhost:8080/recipe", function(result) {
+          $.getJSON("result.json", function(result) {
 
           $.each(result.reverse(), function(index, item) {
             var boiltime = item.boilTime.split(":")[0];

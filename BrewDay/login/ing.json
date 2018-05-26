@@ -1,0 +1,100 @@
+[
+{
+"id": 45,
+"name": "Sucrose (table sugar)",
+"type": "Sugar",
+"quantity": 8.9,
+"username": "group7@asu.edu"
+},
+{
+"id": 45,
+"name": "Sucrose (table sugar)",
+"type": "Sugar",
+"quantity": 8.9,
+"username": "group7@asu.edu"
+},
+{
+"id": 45,
+"name": "Sucrose (table sugar)",
+"type": "Sugar",
+"quantity": 8.9,
+"username": "group7@asu.edu"
+},
+{
+"id": 45,
+"name": "Sucrose (table sugar)",
+"type": "Sugar",
+"quantity": 8.9,
+"username": "group7@asu.edu"
+},
+{
+"id": 45,
+"name": "Ale Yeast",
+"type": "Yeast",
+"quantity": 10,
+"username": "group7@asu.edu"
+},
+{
+"id": 45,
+"name": "Lager Yeast",
+"type": "Yeast",
+"quantity": 7,
+"username": "group7@asu.edu"
+},
+{
+"id": 45,
+"name": "Ale Yeast",
+"type": "Yeast",
+"quantity": 13,
+"username": "group7@asu.edu"
+},
+{
+"id": 45,
+"name": "Sucrose (table sugar)",
+"type": "Sugar",
+"quantity": 8.9,
+"username": "group7@asu.edu"
+},
+{
+"id": 45,
+"name": "Sucrose (table sugar)",
+"type": "Sugar",
+"quantity": 8.9,
+"username": "group7@asu.edu"
+},
+{
+"id": 45,
+"name": "Sucrose (table sugar)",
+"type": "Sugar",
+"quantity": 8.9,
+"username": "group7@asu.edu"
+},
+{
+"id": 45,
+"name": "Sucrose (table sugar)",
+"type": "Sugar",
+"quantity": 8.9,
+"username": "group7@asu.edu"
+},
+{
+"id": 45,
+"name": "Amonium Hop",
+"type": "Hops",
+"quantity": 11.3,
+"username": "group7@asu.edu"
+},
+{
+"id": 45,
+"name": "Wagereh Hops",
+"type": "Hops",
+"quantity": 14.25,
+"username": "group7@asu.edu"
+},
+{
+"id": 46,
+"name": "Fawcett Oat Malt",
+"type": "Grain Malts",
+"quantity": 113,
+"username": "group7@asu.edu"
+}
+]

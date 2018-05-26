@@ -283,8 +283,8 @@
 
         var recipeslist = "";
 
-        $.getJSON("http://localhost:8080/recipe/public", function(publicRecipes) {
-          //$.getJSON("public.json", function(publicRecipes) {
+        //$.getJSON("http://localhost:8080/recipe/public", function(publicRecipes) {
+          $.getJSON("public.json", function(publicRecipes) {
 
           $.each(publicRecipes.reverse(), function(index, item) {
 

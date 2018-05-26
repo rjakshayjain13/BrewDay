@@ -1,0 +1,54 @@
+[
+    {
+"id": 33,
+"createdDate": "2018-04-06T18:09:03.861+0000",
+"lastModifiedDate": "2018-04-06T18:09:03.861+0000",
+"recipename": "chocolate beer",
+"batchSize": 4,
+"instructions": "Add grains and boil for 2 hours and then add sugar and yeast. cool it and add chocolate essence",
+"boilTime": "03:45:36",
+"brewType": "all grain",
+"email": "group7@asu.edu",
+"abv": 6.7,
+"ibu": 3.8
+},
+  {
+"id": 34,
+"createdDate": "2018-04-06T18:14:04.717+0000",
+"lastModifiedDate": "2018-04-06T18:14:04.717+0000",
+"recipename": "malt beer",
+"batchSize": 6,
+"instructions": "add all the grains to the boiling water. after 45 mins, add sugar,yeast and allow it to ferment. later add hops and cool it down.",
+"boilTime": "05:00:00",
+"brewType": "all grain",
+"email": "group7@asu.edu",
+"abv": 8.9,
+"ibu": 7.9
+},
+  {
+"id": 35,
+"createdDate": "2018-04-06T18:20:17.240+0000",
+"lastModifiedDate": "2018-04-06T18:20:17.240+0000",
+"recipename": "Bohemian Millet Pilsner",
+"batchSize": 6,
+"instructions": "Mash in 122 degrees with 4.5 gallons water 1 Tbsp LD Carlson Amylase enzyme and rest 15 mins. Turn on flame and slowly bring mash to 163 degrees constantly stirring to prevent scorching. Add 1Tbsp AMG-300 and rest mash for 2 hours. Mash out with 3 gallons of boiling water, recirculate wort and rest 10 mins to settle. Begin lautering to kettle, add FWH hop addition, once finished running wort, batch sparge with 4 gallons at 170, recirculated wort and rest 10 min to settle. Run remainder of wort to kettle should have close to 8 gallons. Boil 90 mins following hop and fining additions on recipe.",
+"boilTime": "45:00:00",
+"brewType": "Pilsner",
+"email": "group7@asu.edu",
+"abv": 4.6,
+"ibu": 4.5
+},
+  {
+"id": 36,
+"createdDate": "2018-04-06T18:22:32.569+0000",
+"lastModifiedDate": "2018-04-06T18:22:32.569+0000",
+"recipename": "Draught Beer",
+"batchSize": 6,
+"instructions": "boil the water for 45 mins. add grains to the boiling water. later cool it down for 20 mins. add yeast and allow to ferment.",
+"boilTime": "07:00:00",
+"brewType": "all grain",
+"email": "group7@asu.edu",
+"abv": 4.6,
+"ibu": 5.8
+}
+]
